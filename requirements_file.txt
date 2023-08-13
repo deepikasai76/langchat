@@ -1,0 +1,17 @@
+langchain 
+streamlit 
+pypdf 
+python-dotenv 
+numexpr 
+openai 
+PyPDF2 
+InstructorEmbedding 
+transformers 
+faiss-cpu 
+sentence_transformers 
+chromadb 
+unstructured 
+tiktoken 
+pymupdf
+pdf2image 
+pdfminer.six
